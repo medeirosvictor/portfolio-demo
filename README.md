@@ -1,6 +1,8 @@
-npx create-next-app@latest --ts
-yarn add -D tailwindcss postcss autoprefixer
-npx tailwind init -p
+npx create-next-app@latest --ts   
+yarn add -D tailwindcss postcss autoprefixer   
+npx tailwind init -p   
+sanity deploy -> for other to update as well   
+
 
 Extensions
 Tailwind CSS IntelliSense
